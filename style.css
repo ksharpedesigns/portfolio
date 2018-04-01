@@ -1,3 +1,8 @@
+@@font-face {
+  font-family: poppins;
+  src: url("Poppins/Poppins-Regular.ttf"), format("truetype");
+}
+
 body {
 background-image: url("codeforwebsitefaded.jpeg");
 background-size: contain;
@@ -14,7 +19,7 @@ html {
 }
 
 .title-text {
-  font-family: fantasy;
+  font-family: poppins;
   color: white;
   font-size: 60px;
 }
